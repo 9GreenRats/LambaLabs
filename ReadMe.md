@@ -40,7 +40,7 @@ Lamba Labs 4.0 Generative Art Tool is a powerful and user-friendly application f
 *Advanced rarity settings can be configured for each trait with visual representations.*
 
 ### Image Generation
-![Image Generation](screenshots/generation.png)
+![Image Generation](screenshots/generate.png)
 *The image generation process with real-time previews of created images.*
 
 ### Collection Analytics
