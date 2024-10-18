@@ -23,11 +23,11 @@ Lamba Labs 4.0 Generative Art Tool is a powerful and user-friendly application f
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/your-username/lamba-labs-nft-generator.git
+   git clone https://github.com/9GreenRats/LambaLabs.git
    ```
 2. Navigate to the project directory:
    ```
-   cd lamba-labs-nft-generator
+   cd lambalabs
    ```
 3. Install the required dependencies:
    ```
